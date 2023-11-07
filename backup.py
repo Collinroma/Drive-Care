@@ -6,6 +6,7 @@ import pyttsx3
 import numpy as np
 from tkinter import *
 import mediapipe as mp
+import streamlit as st
 import mysql.connector
 from pygame import mixer
 import tkinter.messagebox
